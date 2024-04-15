@@ -1,0 +1,15 @@
+Bagging Decision Tree
+https://colab.research.google.com/drive/13jCHFr_ONh978eWo47ycaDBRqItBLyer?usp=sharing
+
+decision tree
+https://colab.research.google.com/drive/1ZFOoq6ttDrs5BV7XKQyYwek5GWt7GJT2?usp=sharing
+
+xg boost
+https://colab.research.google.com/drive/18wDAVoicVaXqWxqoLjTCDZCYOaxS0LVt?usp=sharing
+
+naive bayes
+https://colab.research.google.com/drive/1dLOTN_VF3StiDxAsuB25rg4XuDX5KuvK?usp=sharing
+
+random forests
+https://colab.research.google.com/drive/10oI9HAjkAojdCRoLUz_lsQDAV0W_Epqy?usp=sharing
+
